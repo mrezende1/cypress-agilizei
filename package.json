@@ -1,0 +1,13 @@
+{
+  "name": "cypress-agilizei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run ",
+    "test:mobile": "npx cypress run --config viewportWidth=411, viewportHeight=823"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
